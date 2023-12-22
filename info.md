@@ -1,1 +1,1 @@
-## Hello, GinHub
+## Hello, GitHub
